@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "TOKYO GIRL",
+  "base_artist": "Perfume",
+  "createdAt": "2025-12-28T02:57:26.878572Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tokyo Girl",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/01_Tokyo_Girl_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TOKYO GIRL",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/02_TOKYO_GIRL_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Japanese-Tokyo-Girl (feat. Hanon & Kotoha)",
+      "artist": "HoneyWorks feat. Hanon & Kotoha",
+      "has_synced": true,
+      "path": "select/03_Japanese-Tokyo-Girl_(feat._Hanon_&_Kotoha)_HoneyWorks_feat._Hanon_&_Kotoha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Japanese-Tokyo-Girl",
+      "artist": "HoneyWorks/Hanon/Kotoha",
+      "has_synced": true,
+      "path": "select/04_Japanese-Tokyo-Girl_HoneyWorks_Hanon_Kotoha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TOKYO GIRL - Remastered",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/05_TOKYO_GIRL_-_Remastered_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tokyo Girl (Remastered)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/06_Tokyo_Girl_(Remastered)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TOKYO GIRL",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/07_TOKYO_GIRL_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TOKYO GIRL",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/08_TOKYO_GIRL_Perfume.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tokyo Girl",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/09_Tokyo_Girl_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "End of This World (Original Demo for ’Tokyo Girl’)",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/10_End_of_This_World_(Original_Demo_for_’Tokyo_Girl’)_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TOKYO GIRL",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/11_TOKYO_GIRL_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tokyo Girl",
+      "artist": "M. Pokora",
+      "has_synced": true,
+      "path": "select/12_Tokyo_Girl_M._Pokora.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO GIRL",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO_GIRL_Perfume.txt"
+    }
+  ]
+}
